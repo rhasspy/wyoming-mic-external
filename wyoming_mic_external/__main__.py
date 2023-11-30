@@ -7,10 +7,8 @@ import time
 from functools import partial
 from pathlib import Path
 
-from wyoming.audio import AudioStart, AudioChunk
+from wyoming.audio import AudioChunk, AudioStart
 from wyoming.event import Event
-from wyoming.handle import Handled, NotHandled
-from wyoming.info import Attribution, Describe, HandleModel, HandleProgram, Info
 from wyoming.server import AsyncEventHandler, AsyncServer
 
 _LOGGER = logging.getLogger()
