@@ -35,5 +35,5 @@ setup(
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
     ],
-    keywords="rhasspy wyoming intent handle",
+    keywords="rhasspy wyoming audio microphone",
 )
