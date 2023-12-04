@@ -20,7 +20,7 @@ setup(
     name="wyoming_handle_external",
     version="1.0.0",
     description="Wyoming server for external intent handling",
-    url="http://github.com/rhasspy/wyoming-handle-external",
+    url="http://github.com/rhasspy/wyoming-mic-external",
     author="Michael Hansen",
     author_email="mike@rhasspy.org",
     packages=setuptools.find_packages(),
