@@ -19,7 +19,7 @@ if requirements_path.is_file():
 setup(
     name="wyoming_handle_external",
     version="1.0.0",
-    description="Wyoming server for external intent handling",
+    description="Wyoming server for external audio input",
     url="http://github.com/rhasspy/wyoming-mic-external",
     author="Michael Hansen",
     author_email="mike@rhasspy.org",
